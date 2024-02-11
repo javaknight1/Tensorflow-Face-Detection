@@ -1,3 +1,9 @@
+# Project specific
+aug_data
+data
+logs
+facetracker.h5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
